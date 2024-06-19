@@ -1,2 +1,1 @@
-# alura-flix-api
-Fake api for alura-flix
+# fake-api-storage
