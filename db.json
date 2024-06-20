@@ -18,130 +18,157 @@
             "color": "#6BD1FF",
             "id": "25"
         }
-
     ],
     "videos": [
         {
+            "descripcion": "",
             "id": "1",
             "title": "Cuándo usar let, var y const? #AluraMás",
-            "enlace": "https://www.youtube.com/embed/PztCEdIJITY?si=JmFJRO94_1X5Hwvt",
+            "enlace": "https://www.youtube.com/PztCEdIJITY?si=JmFJRO94_1X5Hwvt",
+            "capa": "https://i.ytimg.com/vi/PztCEdIJITY/maxresdefault.jpg",
             "categoria": {
                 "nombre": "frontend",
                 "color": "#6BD1FF"
             }
         },
         {
+            "descripcion": "",
             "id": "2",
             "title": "¿Qué es JavaScript?",
-            "enlace": "https://www.youtube.com/embed/GJfOSoaXk4s?si=VNHplFNDZ4mQ9yaX",
+            "enlace": "https://www.youtube.com/GJfOSoaXk4s?si=VNHplFNDZ4mQ9yaX",
+            "capa": "https://i.ytimg.com/vi/GJfOSoaXk4s/mqdefault.jpg",
             "categoria": {
                 "nombre": "frontend",
                 "color": "#6BD1FF"
             }
         },
         {
+            "descripcion": "",
             "id": "3",
             "title": "💛Curso de desarrollo frontend desde cero",
-            "enlace": "https://www.youtube.com/embed/Aikuakl3i8A?si=WFncVzM2Q0o5aUdj",
+            "enlace": "https://www.youtube.com/Aikuakl3i8A?si=WFncVzM2Q0o5aUdj",
+            "capa": "https://i.ytimg.com/vi/Aikuakl3i8A/maxresdefault.jpg",
             "categoria": {
                 "nombre": "frontend",
                 "color": "#6BD1FF"
             }
         },
         {
+            "descripcion": "",
             "id": "4",
             "title": "¡Domina CSS Flexbox con FlexboxFroggy! Aprende jugando en este desafío divertido",
-            "enlace": "https://www.youtube.com/embed/MXPhyN5t0uQ?si=mtNnC1OFN6AuVzl5",
+            "enlace": "https://www.youtube.com/MXPhyN5t0uQ?si=mtNnC1OFN6AuVzl5",
+            "capa": "https://i.ytimg.com/vi/MXPhyN5t0uQ/maxresdefault.jpg",
             "categoria": {
                 "nombre": "frontend",
                 "color": "#6BD1FF"
             }
         },
         {
+            "descripcion": "",
             "id": "5",
             "title": "¿Por qué utilizar React?",
-            "enlace": "https://www.youtube.com/embed/MnBNPA45NW8?si=sE9-hRZp5MLkkmBi",
+            "enlace": "https://www.youtube.com/MnBNPA45NW8?si=sE9-hRZp5MLkkmBi",
+            "capa": "https://i.ytimg.com/vi/MnBNPA45NW8/maxresdefault.jpg",
             "categoria": {
                 "nombre": "frontend",
                 "color": "#6BD1FF"
             }
         },
         {
+            "descripcion": "",
             "id": "6",
             "title": "Explorando el poder del Back-End en el Desarrollo Web",
-            "enlace": "https://youtu.be/Z024LSCMqFk?si=TRPZvt6g_UqjW8r0",
+            "enlace": "https://www.youtube.com/Z024LSCMqFk?si=TRPZvt6g_UqjW8r0",
+            "capa": "https://i.ytimg.com/vi/Z024LSCMqFk/maxresdefault.jpg",
             "categoria": {
                 "nombre": "backend",
                 "color": "#00C86F"
             }
         },
         {
+            "descripcion": "",
             "id": "7",
             "title": "Spring Framework. ¿Qué es ? #AluraMás",
-            "enlace": "https://www.youtube.com/embed/t-iqt1b2qqk?si=xIgG89GkpKbtsanY",
+            "enlace": "https://www.youtube.com/t-iqt1b2qqk?si=xIgG89GkpKbtsanY",
+            "capa": "https://i.ytimg.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
             "categoria": {
                 "nombre": "backend",
                 "color": "#00C86F"
             }
         },
         {
+            "descripcion": "",
             "id": "8",
             "title": "¿Por qué utilizar Java actualmente?",
-            "enlace": "https://www.youtube.com/embed/3kNuK-XAHEY?si=kM2vYsAmlVJQNW2Q",
+            "enlace": "https://www.youtube.com/3kNuK-XAHEY?si=kM2vYsAmlVJQNW2Q",
+            "capa": "https://i.ytimg.com/vi/3kNuK-XAHEY/maxresdefault.jpg",
             "categoria": {
                 "nombre": "backend",
                 "color": "#00C86F"
             }
         },
         {
+            "descripcion": "",
             "id": "9",
             "title": "La magia detrás de Java #aluramás",
-            "enlace": "https://www.youtube.com/embed/GrEO8nZzyZM?si=A-TpJwcl_NAHqZTM",
+            "enlace": "https://www.youtube.com/GrEO8nZzyZM?si=A-TpJwcl_NAHqZTM",
+            "capa": "https://i.ytimg.com/vi/GrEO8nZzyZM/maxresdefault.jpg",
             "categoria": {
                 "nombre": "backend",
                 "color": "#00C86F"
             }
         },
         {
+            "descripcion": "",
             "id": "10",
             "title": "Simplificando tu código en Java: Conoce los enum #AluraMás",
-            "enlace": "https://www.youtube.com/embed/EoPvlE85XAQ?si=n_Ly5XMTDQqljein",
+            "enlace": "https://www.youtube.com/EoPvlE85XAQ?si=n_Ly5XMTDQqljein",
+            "capa": "https://i.ytimg.com/vi/EoPvlE85XAQ/maxresdefault.jpg",
             "categoria": {
                 "nombre": "backend",
                 "color": "#00C86F"
             }
         },
         {
+            "descripcion": "",
             "id": "11",
             "title": "¿Qué son las Soft Skills?",
-            "enlace": "https://www.youtube.com/embed/vhwspfvI52k?si=ek8OKJj4izm3oR4r",
+            "enlace": "https://www.youtube.com/vhwspfvI52k?si=ek8OKJj4izm3oR4r",
+            "capa": "https://i.ytimg.com/vi/vhwspfvI52k/maxresdefault.jpg",
             "categoria": {
                 "nombre": "inovacion",
                 "color": "#FFBA05"
             }
         },
         {
+            "descripcion": "",
             "id": "12",
             "title": "7 Soft Skills más deseadas por las empresas #AluraMás",
-            "enlace": "https://www.youtube.com/embed/YhR7Zp8NUzE?si=MarAUaxLTcLiD9n8",
+            "enlace": "https://www.youtube.com/YhR7Zp8NUzE?si=MarAUaxLTcLiD9n8",
+            "capa": "https://i.ytimg.com/vi/YhR7Zp8NUzE/maxresdefault.jpg",
             "categoria": {
                 "nombre": "inovacion",
                 "color": "#FFBA05"
             }
         },
         {
+            "descripcion": "",
             "id": "13",
             "title": "Conoce a Luri: Nuestra Inteligencia Artificial impulsada por ChatGPT",
-            "enlace": "https://www.youtube.com/embed/cfvFBAB9TIE?si=h25pVw4vk-izfnas",
+            "enlace": "https://www.youtube.com/cfvFBAB9TIE?si=h25pVw4vk-izfnas",
+            "capa": "https://i.ytimg.com/vi/cfvFBAB9TIE/maxresdefault.jpg",
             "categoria": {
                 "nombre": "inovacion",
                 "color": "#FFBA05"
             }
         },
         {
+            "descripcion": "",
             "id": "14",
             "title": "Explorando #SheetGPT: Revelando su Funcionalidad y Aplicaciones",
-            "enlace": "https://www.youtube.com/embed/0kkeYthTGr0?si=yAt8xsISZfuZFU3t",
+            "enlace": "https://www.youtube.com/0kkeYthTGr0?si=yAt8xsISZfuZFU3t",
+            "capa": "https://i.ytimg.com/vi/0kkeYthTGr0/maxresdefault.jpg",
             "categoria": {
                 "nombre": "inovacion",
                 "color": "#FFBA05"
