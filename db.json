@@ -3,7 +3,7 @@
     {
         "id":"1",
         "title":"Cuándo usar let, var y const? #AluraMás",
-        "enlace":"https://www.youtube.com/watch?v=PztCEdIJITY&t=6s",
+        "enlace":"https://www.youtube.com/embed/PztCEdIJITY?si=JmFJRO94_1X5Hwvt",
         "categoria":{
             "nombre":"frontend",
             "color":"#6BD1FF"
