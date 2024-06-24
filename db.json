@@ -26,10 +26,7 @@
             "title": "Cuándo usar let, var y const? #AluraMás",
             "enlace": "https://www.youtube.com/PztCEdIJITY?si=JmFJRO94_1X5Hwvt",
             "capa": "https://i.ytimg.com/vi/PztCEdIJITY/maxresdefault.jpg",
-            "categoria": {
-                "nombre": "frontend",
-                "color": "#6BD1FF"
-            }
+            "categoria": "frontend"
         },
         {
             "descripcion": "",
@@ -37,10 +34,7 @@
             "title": "¿Qué es JavaScript?",
             "enlace": "https://www.youtube.com/GJfOSoaXk4s?si=VNHplFNDZ4mQ9yaX",
             "capa": "https://i.ytimg.com/vi/GJfOSoaXk4s/mqdefault.jpg",
-            "categoria": {
-                "nombre": "frontend",
-                "color": "#6BD1FF"
-            }
+            "categoria": "frontend" 
         },
         {
             "descripcion": "",
@@ -48,10 +42,7 @@
             "title": "💛Curso de desarrollo frontend desde cero",
             "enlace": "https://www.youtube.com/Aikuakl3i8A?si=WFncVzM2Q0o5aUdj",
             "capa": "https://i.ytimg.com/vi/Aikuakl3i8A/maxresdefault.jpg",
-            "categoria": {
-                "nombre": "frontend",
-                "color": "#6BD1FF"
-            }
+            "categoria": "frontend"
         },
         {
             "descripcion": "",
@@ -59,10 +50,7 @@
             "title": "¡Domina CSS Flexbox con FlexboxFroggy! Aprende jugando en este desafío divertido",
             "enlace": "https://www.youtube.com/MXPhyN5t0uQ?si=mtNnC1OFN6AuVzl5",
             "capa": "https://i.ytimg.com/vi/MXPhyN5t0uQ/maxresdefault.jpg",
-            "categoria": {
-                "nombre": "frontend",
-                "color": "#6BD1FF"
-            }
+            "categoria": "frontend"
         },
         {
             "descripcion": "",
@@ -70,10 +58,7 @@
             "title": "¿Por qué utilizar React?",
             "enlace": "https://www.youtube.com/MnBNPA45NW8?si=sE9-hRZp5MLkkmBi",
             "capa": "https://i.ytimg.com/vi/MnBNPA45NW8/maxresdefault.jpg",
-            "categoria": {
-                "nombre": "frontend",
-                "color": "#6BD1FF"
-            }
+            "categoria": "frontend"
         },
         {
             "descripcion": "",
@@ -81,10 +66,7 @@
             "title": "Explorando el poder del Back-End en el Desarrollo Web",
             "enlace": "https://www.youtube.com/Z024LSCMqFk?si=TRPZvt6g_UqjW8r0",
             "capa": "https://i.ytimg.com/vi/Z024LSCMqFk/maxresdefault.jpg",
-            "categoria": {
-                "nombre": "backend",
-                "color": "#00C86F"
-            }
+            "categoria": "backend"
         },
         {
             "descripcion": "",
@@ -92,10 +74,7 @@
             "title": "Spring Framework. ¿Qué es ? #AluraMás",
             "enlace": "https://www.youtube.com/t-iqt1b2qqk?si=xIgG89GkpKbtsanY",
             "capa": "https://i.ytimg.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
-            "categoria": {
-                "nombre": "backend",
-                "color": "#00C86F"
-            }
+            "categoria": "backend"
         },
         {
             "descripcion": "",
@@ -103,10 +82,7 @@
             "title": "¿Por qué utilizar Java actualmente?",
             "enlace": "https://www.youtube.com/3kNuK-XAHEY?si=kM2vYsAmlVJQNW2Q",
             "capa": "https://i.ytimg.com/vi/3kNuK-XAHEY/maxresdefault.jpg",
-            "categoria": {
-                "nombre": "backend",
-                "color": "#00C86F"
-            }
+            "categoria": "backend"
         },
         {
             "descripcion": "",
@@ -114,10 +90,7 @@
             "title": "La magia detrás de Java #aluramás",
             "enlace": "https://www.youtube.com/GrEO8nZzyZM?si=A-TpJwcl_NAHqZTM",
             "capa": "https://i.ytimg.com/vi/GrEO8nZzyZM/maxresdefault.jpg",
-            "categoria": {
-                "nombre": "backend",
-                "color": "#00C86F"
-            }
+            "categoria": "backend"
         },
         {
             "descripcion": "",
@@ -125,10 +98,7 @@
             "title": "Simplificando tu código en Java: Conoce los enum #AluraMás",
             "enlace": "https://www.youtube.com/EoPvlE85XAQ?si=n_Ly5XMTDQqljein",
             "capa": "https://i.ytimg.com/vi/EoPvlE85XAQ/maxresdefault.jpg",
-            "categoria": {
-                "nombre": "backend",
-                "color": "#00C86F"
-            }
+            "categoria": "backend"
         },
         {
             "descripcion": "",
@@ -136,10 +106,7 @@
             "title": "¿Qué son las Soft Skills?",
             "enlace": "https://www.youtube.com/vhwspfvI52k?si=ek8OKJj4izm3oR4r",
             "capa": "https://i.ytimg.com/vi/vhwspfvI52k/maxresdefault.jpg",
-            "categoria": {
-                "nombre": "inovacion",
-                "color": "#FFBA05"
-            }
+            "categoria": "inovacion"
         },
         {
             "descripcion": "",
@@ -147,10 +114,7 @@
             "title": "7 Soft Skills más deseadas por las empresas #AluraMás",
             "enlace": "https://www.youtube.com/YhR7Zp8NUzE?si=MarAUaxLTcLiD9n8",
             "capa": "https://i.ytimg.com/vi/YhR7Zp8NUzE/maxresdefault.jpg",
-            "categoria": {
-                "nombre": "inovacion",
-                "color": "#FFBA05"
-            }
+            "categoria": "inovacion"
         },
         {
             "descripcion": "",
@@ -158,10 +122,7 @@
             "title": "Conoce a Luri: Nuestra Inteligencia Artificial impulsada por ChatGPT",
             "enlace": "https://www.youtube.com/cfvFBAB9TIE?si=h25pVw4vk-izfnas",
             "capa": "https://i.ytimg.com/vi/cfvFBAB9TIE/maxresdefault.jpg",
-            "categoria": {
-                "nombre": "inovacion",
-                "color": "#FFBA05"
-            }
+            "categoria": "inovacion"
         },
         {
             "descripcion": "",
@@ -169,10 +130,7 @@
             "title": "Explorando #SheetGPT: Revelando su Funcionalidad y Aplicaciones",
             "enlace": "https://www.youtube.com/0kkeYthTGr0?si=yAt8xsISZfuZFU3t",
             "capa": "https://i.ytimg.com/vi/0kkeYthTGr0/maxresdefault.jpg",
-            "categoria": {
-                "nombre": "inovacion",
-                "color": "#FFBA05"
-            }
+            "categoria": "inovacion"
         }
     ]
 }
